@@ -12,12 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Hi there!! I'm Marcos Rodrigues! 👋
 
 - 🔭 I’m a linguist and a Linux and FOSS enthusiat.
 - 🌱 I’m currently learning Python, Java, and Javascript.
 - 😄 Pronouns: he/his.
 
+##
 
 <!-- Github stats-->
 <div align="center">
@@ -35,4 +37,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcos-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 </div>
+  
   ## 
