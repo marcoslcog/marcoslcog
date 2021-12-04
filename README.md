@@ -17,17 +17,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a linguist and a Linux and FOSS enthusiat.
 - 🌱 I’m currently learning Python, Java, and Javascript.
-- 😄 Pronouns: he/his.
 
 ##
 
 <!-- Github stats-->
 <div align="center">
   <a href="https://github.com/marcoslcog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoslcog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <!-- it shows the most used languages
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslcog&layout=compact&langs_count=7&theme=dracula"/>
-  -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcoslcog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <!-- it shows the most used languages -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslcog&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!--My Technology icons -->
